@@ -1,6 +1,6 @@
 AUTHOR:  Π2017075
 Image_url/images/Minecraft/jpg
-TITLE: Minecraft
+TITLE: MINECRAFT
 CATEGORIES: Bιντεοπαιχνίδι
 CAPTION:
 
