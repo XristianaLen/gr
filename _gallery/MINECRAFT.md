@@ -1,5 +1,5 @@
 AUTHOR:  Π2017075
-Image_url/images/Minecraft/jpg
+Image_url/images/MINECRAFT/jpg
 TITLE: MINECRAFT
 CATEGORIES: Bιντεοπαιχνίδι
 CAPTION:
