@@ -1,5 +1,5 @@
 ΑUTHOR: Π2017075
-Image_url/images/dynabook1/jpg
+Image_url/images/dynabook1/png
 TITLE: Dynabook
 CATEGORIES: Notebook
 CAPTION:
