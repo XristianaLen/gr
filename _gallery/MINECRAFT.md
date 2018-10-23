@@ -1,3 +1,4 @@
+---
 AUTHOR:  Π2017075
 Image_url/images/MINECRAFT/png
 CAPTION:Το Minecraft είναι βιντεοπαιχνίδι sandbox που δημιουργήθηκε αρχικά από τον Σουηδό προγραμματιστή Markus "Notch" Persson και αργότερα 
@@ -6,3 +7,4 @@ CAPTION:Το Minecraft είναι βιντεοπαιχνίδι sandbox που δ
 των πόρων, κατασκευή, και μάχες. 
 TITLE: MINECRAFT
 CATEGORIES: Bιντεοπαιχνίδι
+---
