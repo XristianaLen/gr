@@ -1,6 +1,6 @@
 AUTHOR:  Π2017075
-Image_url/images/uber/jpg
-TITLE: Uber
+Image_url/images/UBER/jpg
+TITLE: UBER
 CATEGORIES: Ιδιωτική Εταιρία
 CAPTION: 
 
